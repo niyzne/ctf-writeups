@@ -22,4 +22,3 @@ This repository is made with the purpose of documenting different writeups from 
 - [MySpace](HackThePlanet-CTF/MySpace/MySpace.md)
 
 ---
-(just testing some stuff)
