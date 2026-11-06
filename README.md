@@ -15,7 +15,11 @@ This repository is made with the purpose of documenting different writeups from 
 - [Cache Me Outside](TryHackMe/Cache-Me-Outside/Cache-Me-Outside.md)
 
 ---
+## OverTheWire
 
+- [Natas](OverTheWire/natas/README.md)
+
+---
 ## HackThePlanet CTF
 
 - [PlagueGPT](HackThePlanet-CTF/PlagueGPT/PlagueGPT.md)
